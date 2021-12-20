@@ -1,0 +1,15 @@
+C:\Users\Vitor\Marlone\obj\Debug\net6.0\Marlone.csproj.AssemblyReference.cache
+C:\Users\Vitor\Marlone\obj\Debug\net6.0\Marlone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Marlone\obj\Debug\net6.0\Marlone.AssemblyInfoInputs.cache
+C:\Users\Vitor\Marlone\obj\Debug\net6.0\Marlone.AssemblyInfo.cs
+C:\Users\Vitor\Marlone\obj\Debug\net6.0\Marlone.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Marlone\bin\Debug\net6.0\Marlone.exe
+C:\Users\Vitor\Marlone\bin\Debug\net6.0\Marlone.deps.json
+C:\Users\Vitor\Marlone\bin\Debug\net6.0\Marlone.runtimeconfig.json
+C:\Users\Vitor\Marlone\bin\Debug\net6.0\Marlone.dll
+C:\Users\Vitor\Marlone\bin\Debug\net6.0\ref\Marlone.dll
+C:\Users\Vitor\Marlone\bin\Debug\net6.0\Marlone.pdb
+C:\Users\Vitor\Marlone\obj\Debug\net6.0\Marlone.dll
+C:\Users\Vitor\Marlone\obj\Debug\net6.0\ref\Marlone.dll
+C:\Users\Vitor\Marlone\obj\Debug\net6.0\Marlone.pdb
+C:\Users\Vitor\Marlone\obj\Debug\net6.0\Marlone.genruntimeconfig.cache
